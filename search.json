@@ -1,10 +1,45 @@
 [
   {
+    "objectID": "articles/index.html",
+    "href": "articles/index.html",
+    "title": "Articles",
+    "section": "",
+    "text": "Articles\n\nWe are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.\n\nI like to think and write about a variety of topics."
+  },
+  {
     "objectID": "notes/index.html",
     "href": "notes/index.html",
     "title": "Notes",
     "section": "",
-    "text": "Notes\nOn this page, you can find notes related to my coursework, reading projects and random musings."
+    "text": "Notes\n\nEvery endeavor is covered by some sort of fault, just as fire is covered by smoke. Therefore one should not give up the work which is born of his nature, …, even if such work is full of fault.\n\nYou have been warned. On this page, you can find notes related to my coursework, reading projects and random musings."
+  },
+  {
+    "objectID": "comics/index.html",
+    "href": "comics/index.html",
+    "title": "Comics",
+    "section": "",
+    "text": "… each action is like the pulsations quivering over the surface of the lake. The vibration dies out, and what is left? … the impressions. … these vibrations passing out of our mind, each one of them leaving its result. Our character is the sum-total of these marks, …\nHere you can find some articles, comics, jokes, and memes written by me. Over time I have developed a very technical (read: broken) sense of humour, so in order to preserve both the original content and the meaning, you will find “spoiler” explanations behind most of them. This might contain historical information for the historians to document as well."
+  },
+  {
+    "objectID": "comics/index.html#memes",
+    "href": "comics/index.html#memes",
+    "title": "Comics",
+    "section": "Memes",
+    "text": "Memes\n\nBuchi AutomataStay Tuned!\n\n\n\n\n\nExplanation\n\nDr Strange represents the Buchi automata (NBA) and he is bargaining with Dormammu (infinite words over \\(\\Sigma\\), i.e., \\(\\Sigma^\\omega\\)). The acceptance criterion of an NBA is that on “running” the infinite word through the automata in a non-deterministic fashion, accepting states must be visited infinitely many times during the entire run. This is similar to what Dr Strange does in the movie: he repeatedly revives himself using the time stone visiting the state “Dormammu, I have come to bargain” infinitely often.\n\n\n\n\n\n\nExplanation\n\nHmm… Nothing here."
+  },
+  {
+    "objectID": "comics/index.html#cartoons",
+    "href": "comics/index.html#cartoons",
+    "title": "Comics",
+    "section": "Cartoons",
+    "text": "Cartoons\n\nAIML Midsem StoryEarly Doodling\n\n\n\n\n\nExplanation\n\nGod, I thought this was self-explanatory. Anyway some context:\n\n\n\n\n\n\nExplanation\n\nContrast between benign testcases that you get during a lab exam in the CS department just for sanity checks that your code is compiling and working as expected and the hidden testcases that are made to check every possible edge case and break your code. A source of pleasure for certain kinds of TAs."
+  },
+  {
+    "objectID": "comics/index.html#other",
+    "href": "comics/index.html#other",
+    "title": "Comics",
+    "section": "Other",
+    "text": "Other\nNot all things that are funny are made by me, right? (no? I am humbled). Here are some of the “graphical” creative works that I enjoyed.\n\nPhilanthropy\n\n\n\n\n\nExplanation\n\nGo watch some star wars!"
   },
   {
     "objectID": "high-dim-prob/index.html",
@@ -21,17 +56,10 @@
     "text": "Chapter 1: Johnson-Lindenstrauss and Sparse Projections"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "hellomath010118.github.io",
+    "title": "About Me",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "How I looked a couple of years ago\n\n\n\n\nHi, I am Bhavya Tiwari, a third year student at IIT Bombay in the Computer Science and Engineering department. My interests broadly lie at the intersection of mathematics and theoretical CS. Over time I have become less of a math purist and like to explore areas at the intersection of multiple fields. Currently I am exploring multiples specks in the ocean of knowledge. I don’t really have any fixed hobbies but I do enjoy watching good science fiction movies and reading on Indian Philosophy.\n\n\n\n\n\n\n\n\n\n\nIf I were a Springer-Verlag Graduate Text in Mathematics, I would be W.B.R. Lickorish’s An Introduction to Knot Theory.\n\n\nI am an introduction to mathematical Knot Theory; the theory of knots and links of simple closed curves in three-dimensional space. I consist of a selection of topics which graduate students have found to be a successful introduction to the field. Three distinct techniques are employed; Geometric Topology Manoeuvres, Combinatorics, and Algebraic Topology.\n\n\nWhich Springer GTM would you be? The Springer GTM Test"
   }
 ]
