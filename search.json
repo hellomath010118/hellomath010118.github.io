@@ -35,6 +35,13 @@
     "text": "Cartoons\n\nAIML Midsem StoryEarly Doodling\n\n\n\n\n\nExplanation\n\nGod, I thought this was self-explanatory. Anyway some context:\n\n\n\n\n\n\nExplanation\n\nContrast between benign testcases that you get during a lab exam in the CS department just for sanity checks that your code is compiling and working as expected and the hidden testcases that are made to check every possible edge case and break your code. A source of pleasure for certain kinds of TAs."
   },
   {
+    "objectID": "comics/index.html#academic-humour",
+    "href": "comics/index.html#academic-humour",
+    "title": "Comics",
+    "section": "Academic humour",
+    "text": "Academic humour\nWell, sometimes textbooks and papers can be creative or ridiculous. Here I log some of the instances that I remember. You can try to learn more about a theorem or problem that looks interesting!\n\nStraightforwardWell-knownRecursion\n\n\n\n\n\nExplanation\n\nI suppose everything in this theorem was found via backworking. It is better to say how you did the backworking I suppose in one or two lines rather than presenting such a weird-ass proof that is not even human verifiable easily (unless you have the grit maybe). The paper uses \\(\\mathbb{E}X^4\\), \\(\\mathbb{E}X^2\\) and \\(\\mathbb{E}X\\) to establish upper-bounds on \\(\\Pr(X\\ge 0)\\) using Linear Programming. See the Concentration inequalities page on Wikipedia.\n\n\n\n\n\n\nExplanation\n\nQuite an interesting fact in Complex Analysis, isn’t it?\n\n\n\n\n\n\nExplanation\n\nFrom the old times — Spivak!"
+  },
+  {
     "objectID": "comics/index.html#other",
     "href": "comics/index.html#other",
     "title": "Comics",
@@ -60,6 +67,6 @@
     "href": "index.html",
     "title": "About Me",
     "section": "",
-    "text": "How I looked a couple of years ago\n\n\n\n\nHi, I am Bhavya Tiwari, a third year student at IIT Bombay in the Computer Science and Engineering department. My interests broadly lie at the intersection of mathematics and theoretical CS. Over time I have become less of a math purist and like to explore areas at the intersection of multiple fields. Currently I am exploring multiples specks in the ocean of knowledge. I don’t really have any fixed hobbies but I do enjoy watching good science fiction movies and reading on Indian Philosophy.\n\n\n\n\n\n\n\n\n\n\nIf I were a Springer-Verlag Graduate Text in Mathematics, I would be W.B.R. Lickorish’s An Introduction to Knot Theory.\n\n\nI am an introduction to mathematical Knot Theory; the theory of knots and links of simple closed curves in three-dimensional space. I consist of a selection of topics which graduate students have found to be a successful introduction to the field. Three distinct techniques are employed; Geometric Topology Manoeuvres, Combinatorics, and Algebraic Topology.\n\n\nWhich Springer GTM would you be? The Springer GTM Test"
+    "text": "How I looked a couple of years ago\n\n\n\n\nHi, I am Bhavya Tiwari, a third year student at IIT Bombay in the Computer Science and Engineering department. My interests broadly lie at the intersection of mathematics and theoretical CS. Over time I have become less of a math purist and like to explore areas at the intersection of multiple fields. Currently I am exploring multiples specks in the ocean of knowledge. I don’t really have any fixed hobbies but I do enjoy watching good science fiction movies and reading up on Indian Philosophy.\n\n\n\n\n\n\n\n\n\n\nIf I were a Springer-Verlag Graduate Text in Mathematics, I would be W.B.R. Lickorish’s An Introduction to Knot Theory.\n\n\nI am an introduction to mathematical Knot Theory; the theory of knots and links of simple closed curves in three-dimensional space. I consist of a selection of topics which graduate students have found to be a successful introduction to the field. Three distinct techniques are employed; Geometric Topology Manoeuvres, Combinatorics, and Algebraic Topology.\n\n\nWhich Springer GTM would you be? The Springer GTM Test"
   }
 ]
