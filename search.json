@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "notes/index.html",
+    "href": "notes/index.html",
+    "title": "Notes",
+    "section": "",
+    "text": "Notes\nOn this page, you can find notes related to my coursework, reading projects and random musings."
+  },
+  {
+    "objectID": "high-dim-prob/index.html",
+    "href": "high-dim-prob/index.html",
+    "title": "High-Dimensional Probability",
+    "section": "",
+    "text": "I did some reading on HDP in the summer of 2026 and on this page you can find my notes and implementations.\n\n\n\nChapter 1: Johnson-Lindenstrauss and Sparse Projections"
+  },
+  {
+    "objectID": "high-dim-prob/index.html#chapters",
+    "href": "high-dim-prob/index.html#chapters",
+    "title": "High-Dimensional Probability",
+    "section": "",
+    "text": "Chapter 1: Johnson-Lindenstrauss and Sparse Projections"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "hellomath010118.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
