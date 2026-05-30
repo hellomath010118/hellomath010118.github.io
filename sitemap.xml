@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://hellomath010118.github.io/contact.html</loc>
+    <lastmod>2026-05-29T04:59:34.637Z</lastmod>
+  </url>
+  <url>
     <loc>https://hellomath010118.github.io/posts/1.html</loc>
     <lastmod>2026-05-28T09:01:03.440Z</lastmod>
   </url>
@@ -31,5 +35,9 @@
   <url>
     <loc>https://hellomath010118.github.io/wall/index.html</loc>
     <lastmod>2026-05-28T08:45:55.716Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hellomath010118.github.io/posts/2.html</loc>
+    <lastmod>2026-05-30T18:54:27.696Z</lastmod>
   </url>
 </urlset>
