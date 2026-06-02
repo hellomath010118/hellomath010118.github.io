@@ -7,18 +7,39 @@
     "text": "You can mail me at my college email “24b0913” + “@” + “iitb.ac.in”. I prefer it over my personal mail since that is a bit cluttered so I do not check it as regularly."
   },
   {
-    "objectID": "articles/index.html",
-    "href": "articles/index.html",
-    "title": "Articles",
+    "objectID": "posts/2.html",
+    "href": "posts/2.html",
+    "title": "Bhavya's Homepage",
     "section": "",
-    "text": "Articles\n\nWe are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.\n\nI like to think and write about a variety of topics."
+    "text": "Today we went on a trip to Pondicherry and also had a bit of a debate about some religious issues. I believe the ideal of God is the mother of all ideals. Everybody follows some philosophy, and that might not be explicitly following a written philosophy. However, some things can be established with reasonable rigor, and a lack of knowledge of them causes many difficulties when trying to put things into practice. Today, for unknown reasons, I felt a profound sense of respect for this life for just existing here. Now, the ancient wisdom holds that this existence is bondage. We are in the material world, they say, having pain and blah blah. I do not know what or why I feel this, but perhaps it is some deep intuition that has given me a curious purpose. We abuse so many of these subtle things. Rather than looking at them as tools of bondage, we should look at them as the means of liberation of the soul. Hence, they should be respected, not disregarded, or something; they have their own purpose, which is best fulfilled when they are used in the right manner."
   },
   {
-    "objectID": "notes/index.html",
-    "href": "notes/index.html",
-    "title": "Notes",
+    "objectID": "wall/index.html",
+    "href": "wall/index.html",
+    "title": "The Wall",
     "section": "",
-    "text": "Notes\n\nEvery endeavor is covered by some sort of fault, just as fire is covered by smoke. Therefore one should not give up the work which is born of his nature, …, even if such work is full of fault.\n\nYou have been warned. On this page, you can find notes related to my coursework, reading projects and random musings."
+    "text": "Concept taken from here\n\n\n\n\n\n\n\n\n\nHad a nice discussion with some interns at CMI. One interesting point in particular was the following: “If A can observer B, then A != B”. We had started with some general philosophy (e.g., I had read about ecofeminism the last semester) and in the process I understood their world view (except that one person who was not participating that much). Let’s see when we meet again!\n\n\n\n\n\nMay 31, 2026\n\n\n\n\n\n\n\nToday I experienced a profound sense of respect for the world and my existence. Not sure why I felt like that today (seemed like a normal day).\n\n\n\n\n\nMay 30, 2026\n\n\n\n\n\n\n\nJust read OpenAI model specs because (ironically) ChatGPT was warning me that my question (on how to create this website) was falling outside its model specs\n\n\n\n\n\nMay 28, 2026\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "How I looked a couple of years ago\n\n\n\n\nHi, I am Bhavya Tiwari, a third year student at IIT Bombay in the Computer Science and Engineering department. My interests broadly lie at the intersection of mathematics and theoretical CS. Over time I have become less of a math purist and like to explore areas at the intersection of multiple fields. Currently I am exploring multiples specks in the ocean of knowledge. I don’t really have any fixed hobbies but I do enjoy watching good science fiction movies and reading up on Indian Philosophy.\n\n\n\n\n\n\n\n\n\n\nIf I were a Springer-Verlag Graduate Text in Mathematics, I would be W.B.R. Lickorish’s An Introduction to Knot Theory.\n\n\nI am an introduction to mathematical Knot Theory; the theory of knots and links of simple closed curves in three-dimensional space. I consist of a selection of topics which graduate students have found to be a successful introduction to the field. Three distinct techniques are employed; Geometric Topology Manoeuvres, Combinatorics, and Algebraic Topology.\n\n\nWhich Springer GTM would you be? The Springer GTM Test"
+  },
+  {
+    "objectID": "high-dim-prob/index.html",
+    "href": "high-dim-prob/index.html",
+    "title": "High-Dimensional Probability",
+    "section": "",
+    "text": "I did some reading on HDP in the summer of 2026 and on this page you can find my notes and implementations.\n\n\n\nChapter 1: Johnson-Lindenstrauss and Sparse Projections"
+  },
+  {
+    "objectID": "high-dim-prob/index.html#chapters",
+    "href": "high-dim-prob/index.html#chapters",
+    "title": "High-Dimensional Probability",
+    "section": "",
+    "text": "Chapter 1: Johnson-Lindenstrauss and Sparse Projections"
   },
   {
     "objectID": "comics/index.html",
@@ -63,38 +84,17 @@
     "text": "Other\nNot all things that are funny are made by me, right? (no? I am humbled). Here are some of the “graphical” creative works that I enjoyed.\n\nPhilanthropy\n\n\n\n\n\nExplanation\n\nGo watch some star wars!"
   },
   {
-    "objectID": "high-dim-prob/index.html",
-    "href": "high-dim-prob/index.html",
-    "title": "High-Dimensional Probability",
+    "objectID": "notes/index.html",
+    "href": "notes/index.html",
+    "title": "Notes",
     "section": "",
-    "text": "I did some reading on HDP in the summer of 2026 and on this page you can find my notes and implementations.\n\n\n\nChapter 1: Johnson-Lindenstrauss and Sparse Projections"
+    "text": "Notes\n\nEvery endeavor is covered by some sort of fault, just as fire is covered by smoke. Therefore one should not give up the work which is born of his nature, …, even if such work is full of fault.\n\nYou have been warned. On this page, you can find notes related to my coursework, reading projects and random musings."
   },
   {
-    "objectID": "high-dim-prob/index.html#chapters",
-    "href": "high-dim-prob/index.html#chapters",
-    "title": "High-Dimensional Probability",
+    "objectID": "articles/index.html",
+    "href": "articles/index.html",
+    "title": "Articles",
     "section": "",
-    "text": "Chapter 1: Johnson-Lindenstrauss and Sparse Projections"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "How I looked a couple of years ago\n\n\n\n\nHi, I am Bhavya Tiwari, a third year student at IIT Bombay in the Computer Science and Engineering department. My interests broadly lie at the intersection of mathematics and theoretical CS. Over time I have become less of a math purist and like to explore areas at the intersection of multiple fields. Currently I am exploring multiples specks in the ocean of knowledge. I don’t really have any fixed hobbies but I do enjoy watching good science fiction movies and reading up on Indian Philosophy.\n\n\n\n\n\n\n\n\n\n\nIf I were a Springer-Verlag Graduate Text in Mathematics, I would be W.B.R. Lickorish’s An Introduction to Knot Theory.\n\n\nI am an introduction to mathematical Knot Theory; the theory of knots and links of simple closed curves in three-dimensional space. I consist of a selection of topics which graduate students have found to be a successful introduction to the field. Three distinct techniques are employed; Geometric Topology Manoeuvres, Combinatorics, and Algebraic Topology.\n\n\nWhich Springer GTM would you be? The Springer GTM Test"
-  },
-  {
-    "objectID": "wall/index.html",
-    "href": "wall/index.html",
-    "title": "The Wall",
-    "section": "",
-    "text": "Concept taken from here\n\n\n\n\n\n\n\n\n\nToday I experienced a profound sense of respect for the world and my existence. Not sure why I felt like that today (seemed like a normal day).\n\n\n\n\n\nMay 30, 2026\n\n\n\n\n\n\n\nJust read OpenAI model specs because (ironically) ChatGPT was warning me that my question (on how to create this website) was falling outside its model specs\n\n\n\n\n\nMay 28, 2026\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/2.html",
-    "href": "posts/2.html",
-    "title": "Bhavya's Homepage",
-    "section": "",
-    "text": "Today we went on a trip to Pondicherry and also had a bit of a debate about some religious issues. I believe the ideal of God is the mother of all ideals. Everybody follows some philosophy, and that might not be explicitly following a written philosophy. However, some things can be established with reasonable rigor, and a lack of knowledge of them causes many difficulties when trying to put things into practice. Today, for unknown reasons, I felt a profound sense of respect for this life for just existing here. Now, the ancient wisdom holds that this existence is bondage. We are in the material world, they say, having pain and blah blah. I do not know what or why I feel this, but perhaps it is some deep intuition that has given me a curious purpose. We abuse so many of these subtle things. Rather than looking at them as tools of bondage, we should look at them as the means of liberation of the soul. Hence, they should be respected, not disregarded, or something; they have their own purpose, which is best fulfilled when they are used in the right manner."
+    "text": "Articles\n\nWe are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.\n\nI like to think and write about a variety of topics."
   }
 ]
