@@ -21,25 +21,18 @@
     "text": "Concept taken from here\n\n\n\n\n\n\n\n\n\nTIL that gnu has that buffalo like symbol because there is a literal buffalo like animal called gnu. And I thought BERT was the first example I learnt (in the AI-ML course last sem)…\n\n\n\n\n\nJun 6, 2026\n\n\n\n\n\n\n\nHad a nice discussion with some interns at CMI. Let’s see when we meet again!\n\n\n\n\n\nMay 31, 2026\n\n\n\n\n\n\n\nToday I experienced a profound sense of respect for the world and my existence. Not sure why I felt like that today (seemed like a normal day).\n\n\n\n\n\nMay 30, 2026\n\n\n\n\n\n\n\nJust read OpenAI model specs because (ironically) ChatGPT was warning me that my question (on how to create this website) was falling outside its model specs\n\n\n\n\n\nMay 28, 2026\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
+    "objectID": "articles/entries/learning-math-what-does-that-mean.html",
+    "href": "articles/entries/learning-math-what-does-that-mean.html",
+    "title": "Learning Math: What does that mean?",
     "section": "",
-    "text": "How I looked a couple of years ago\n\n\n\n\nHi, I am Bhavya Tiwari, a third year student at IIT Bombay in the Computer Science and Engineering department. My interests broadly lie at the intersection of mathematics and theoretical CS. Over time I have become less of a math purist and like to explore areas at the intersection of multiple fields. Currently I am exploring multiples specks in the ocean of knowledge. I don’t really have any fixed hobbies but I do enjoy watching good science fiction movies and reading up on Indian Philosophy.\n\n\n\n\n\n\n\n\n\n\nIf I were a Springer-Verlag Graduate Text in Mathematics, I would be W.B.R. Lickorish’s An Introduction to Knot Theory.\n\n\nI am an introduction to mathematical Knot Theory; the theory of knots and links of simple closed curves in three-dimensional space. I consist of a selection of topics which graduate students have found to be a successful introduction to the field. Three distinct techniques are employed; Geometric Topology Manoeuvres, Combinatorics, and Algebraic Topology.\n\n\nWhich Springer GTM would you be? The Springer GTM Test"
+    "text": "I do math “part-time”, if I may phrase it like that, and having talked to some of my friends who do math “full-time”, I figured out that for them what it means to learn a topic seems very different from what it would mean for me.\nSo for example, there are these things called modules and a corresponding “theory” called Module Theory (just like Ring Theory or Field Theory or … Number Theory?). Now all that came to my mind when we were talking about modules was their definition and perhaps the fact that we can import some tools from linear algebra (although recall that vector spaces are over fields). Now, I have not yet taken a proper course on the topic (as is the case with most of my mathematical knowledge) so there might be a skill issue.\nThere was a similar conversation with somebody another day and it will take time for me to remember the precise details but if we go on vibes, then I was again thinking of something very general – a structure – and maybe some of its abstract properties blah blah. So this vague sense is what I think when you ask me about module theory, blah blah.\nNow let us see what the full-timers have to say about this. They are like “now you have to study different kinds of modules; for instance, there are projective modules, …” – they do not think that fundamentally to decide whether they have covered some topic. It is more like once they have studied the most general definition then they have this special phase where they learn about “particular general examples”, if I may say so.\nTo give a simple analogy, if you ask me about natural numbers, say, I will be thinking of induction, well-ordering, successor, divisibility, factorization, … first while they would talk of even numbers, odd numbers, prime numbers, composite numbers, … first. What might be the reason behind these differences?\nOne that I can think of is that since I am a part-timer, I do not remember all the nitty-gritty details; I tend to remember the most general things only. On the other hand, they are working with the subject on much finer scales, so the details matter immensely for them I suppose?"
   },
   {
-    "objectID": "high-dim-prob/index.html",
-    "href": "high-dim-prob/index.html",
-    "title": "High-Dimensional Probability",
+    "objectID": "notes/index.html",
+    "href": "notes/index.html",
+    "title": "Notes",
     "section": "",
-    "text": "I did some reading on HDP in the summer of 2026 and on this page you can find my notes and implementations.\n\n\n\nChapter 1: Johnson-Lindenstrauss and Sparse Projections"
-  },
-  {
-    "objectID": "high-dim-prob/index.html#chapters",
-    "href": "high-dim-prob/index.html#chapters",
-    "title": "High-Dimensional Probability",
-    "section": "",
-    "text": "Chapter 1: Johnson-Lindenstrauss and Sparse Projections"
+    "text": "Notes\n\nEvery endeavor is covered by some sort of fault, just as fire is covered by smoke. Therefore one should not give up the work which is born of his nature, …, even if such work is full of fault.\n\nYou have been warned. On this page, you can find notes related to my coursework, reading projects and random musings."
   },
   {
     "objectID": "comics/index.html",
@@ -84,18 +77,32 @@
     "text": "Other\nNot all things that are funny are made by me, right? (no? I am humbled). Here are some of the “graphical” creative works that I enjoyed.\n\nPhilanthropy\n\n\n\n\n\nExplanation\n\nGo watch some star wars!"
   },
   {
-    "objectID": "notes/index.html",
-    "href": "notes/index.html",
-    "title": "Notes",
+    "objectID": "high-dim-prob/index.html",
+    "href": "high-dim-prob/index.html",
+    "title": "High-Dimensional Probability",
     "section": "",
-    "text": "Notes\n\nEvery endeavor is covered by some sort of fault, just as fire is covered by smoke. Therefore one should not give up the work which is born of his nature, …, even if such work is full of fault.\n\nYou have been warned. On this page, you can find notes related to my coursework, reading projects and random musings."
+    "text": "I did some reading on HDP in the summer of 2026 and on this page you can find my notes and implementations.\n\n\n\nChapter 1: Johnson-Lindenstrauss and Sparse Projections"
+  },
+  {
+    "objectID": "high-dim-prob/index.html#chapters",
+    "href": "high-dim-prob/index.html#chapters",
+    "title": "High-Dimensional Probability",
+    "section": "",
+    "text": "Chapter 1: Johnson-Lindenstrauss and Sparse Projections"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "How I looked a couple of years ago\n\n\n\n\nHi, I am Bhavya Tiwari, a third year student at IIT Bombay in the Computer Science and Engineering department. My interests broadly lie at the intersection of mathematics and theoretical CS. Over time I have become less of a math purist and like to explore areas at the intersection of multiple fields. Currently I am exploring multiples specks in the ocean of knowledge. I don’t really have any fixed hobbies but I do enjoy watching good science fiction movies and reading up on Indian Philosophy.\n\n\n\n\n\n\n\n\n\n\nIf I were a Springer-Verlag Graduate Text in Mathematics, I would be W.B.R. Lickorish’s An Introduction to Knot Theory.\n\n\nI am an introduction to mathematical Knot Theory; the theory of knots and links of simple closed curves in three-dimensional space. I consist of a selection of topics which graduate students have found to be a successful introduction to the field. Three distinct techniques are employed; Geometric Topology Manoeuvres, Combinatorics, and Algebraic Topology.\n\n\nWhich Springer GTM would you be? The Springer GTM Test"
   },
   {
     "objectID": "articles/index.html",
     "href": "articles/index.html",
     "title": "Articles",
     "section": "",
-    "text": "Articles\n\nWe are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.\n\nI like to think and write about a variety of topics."
+    "text": "We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far.\n\nI like to think and write about a variety of topics.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/3.html",

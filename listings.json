@@ -7,5 +7,9 @@
       "/posts/2.html",
       "/posts/1.html"
     ]
+  },
+  {
+    "listing": "/articles/index.html",
+    "items": []
   }
 ]
