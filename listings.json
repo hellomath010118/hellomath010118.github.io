@@ -2,14 +2,16 @@
   {
     "listing": "/wall/index.html",
     "items": [
-      "/posts/4.html",
-      "/posts/3.html",
-      "/posts/2.html",
-      "/posts/1.html"
+      "/wall/posts/4.html",
+      "/wall/posts/3.html",
+      "/wall/posts/2.html",
+      "/wall/posts/1.html"
     ]
   },
   {
     "listing": "/articles/index.html",
-    "items": []
+    "items": [
+      "/articles/entries/learning-math-what-does-that-mean.html"
+    ]
   }
 ]
