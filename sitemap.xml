@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hellomath010118.github.io/contact.html</loc>
-    <lastmod>2026-05-29T04:59:34.637Z</lastmod>
+    <loc>https://hellomath010118.github.io/posts/4.html</loc>
+    <lastmod>2026-06-06T06:41:15.458Z</lastmod>
   </url>
   <url>
     <loc>https://hellomath010118.github.io/posts/2.html</loc>
@@ -43,5 +43,9 @@
   <url>
     <loc>https://hellomath010118.github.io/posts/3.html</loc>
     <lastmod>2026-06-02T02:35:22.291Z</lastmod>
+  </url>
+  <url>
+    <loc>https://hellomath010118.github.io/contact.html</loc>
+    <lastmod>2026-05-29T04:59:34.637Z</lastmod>
   </url>
 </urlset>

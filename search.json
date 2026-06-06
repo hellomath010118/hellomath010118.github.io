@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact Me",
-    "section": "",
-    "text": "You can mail me at my college email “24b0913” + “@” + “iitb.ac.in”. I prefer it over my personal mail since that is a bit cluttered so I do not check it as regularly."
-  },
-  {
     "objectID": "posts/2.html",
     "href": "posts/2.html",
     "title": "Bhavya's Homepage",
@@ -18,7 +11,7 @@
     "href": "wall/index.html",
     "title": "The Wall",
     "section": "",
-    "text": "Concept taken from here\n\n\n\n\n\n\n\n\n\nHad a nice discussion with some interns at CMI. Let’s see when we meet again!\n\n\n\n\n\nMay 31, 2026\n\n\n\n\n\n\n\nToday I experienced a profound sense of respect for the world and my existence. Not sure why I felt like that today (seemed like a normal day).\n\n\n\n\n\nMay 30, 2026\n\n\n\n\n\n\n\nJust read OpenAI model specs because (ironically) ChatGPT was warning me that my question (on how to create this website) was falling outside its model specs\n\n\n\n\n\nMay 28, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Concept taken from here\n\n\n\n\n\n\n\n\n\nTIL that gnu has that buffalo like symbol because there is a literal buffalo like animal called gnu. And I thought BERT was the first example I learnt (in the AI-ML course last sem)…\n\n\n\n\n\nJun 6, 2026\n\n\n\n\n\n\n\nHad a nice discussion with some interns at CMI. Let’s see when we meet again!\n\n\n\n\n\nMay 31, 2026\n\n\n\n\n\n\n\nToday I experienced a profound sense of respect for the world and my existence. Not sure why I felt like that today (seemed like a normal day).\n\n\n\n\n\nMay 30, 2026\n\n\n\n\n\n\n\nJust read OpenAI model specs because (ironically) ChatGPT was warning me that my question (on how to create this website) was falling outside its model specs\n\n\n\n\n\nMay 28, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -103,5 +96,12 @@
     "title": "Bhavya's Homepage",
     "section": "",
     "text": "One interesting point in particular was the following: “If A can observe B, then A != B”. We had started with some general philosophy (e.g., I had read about ecofeminism the last semester) and in the process I understood their world view (except that one person who was not participating that much)."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact Me",
+    "section": "",
+    "text": "You can mail me at my college email “24b0913” + “@” + “iitb.ac.in”. I prefer it over my personal mail since that is a bit cluttered so I do not check it as regularly."
   }
 ]
