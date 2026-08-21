@@ -6,10 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="dcterms.date" content="2026-05-28">
-<meta name="description" content="Just read OpenAI model specs because (ironically) ChatGPT was warning me that my question (on how to create this website) was falling outside its model specs">
+<meta name="dcterms.date" content="2026-08-21">
+<meta name="description" content="What is the ultimate source of strength of a friendship? Forgiveness. ~Bhavya">
 
-<title>quarto-inputc115dde1c8aefa5b – Bhavya's Homepage</title>
+<title>quarto-inpute9ba1e7016681877 – Bhavya's Homepage</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -75,6 +75,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -309,7 +338,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div>
   <div class="description">
-    Just read <a href="https://model-spec.openai.com/2025-12-18.html">OpenAI model specs</a> because (ironically) ChatGPT was warning me that my question (on how to create this website) was falling outside its model specs
+    What is the ultimate source of strength of a friendship? Forgiveness. ~Bhavya
   </div>
 </div>
 
@@ -320,7 +349,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">May 28, 2026</p>
+      <p class="date">August 21, 2026</p>
     </div>
   </div>
   
@@ -332,6 +361,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>I had this image of how ideal friends should be. I also tried to be that ideal; I am not sure how well I did because most people do not think or talk to me about these things understandably. I must be doing terribly due to my practice. Then I thought there are still these people who are around me and I may have also done things they did not like. Why are we still “friends” when there is no principle? Oh but there is the divine energy of forgiveness and understanding. That is why some people stay together and others do not. It is not that good friends talk sensibly and friendships that break were idiotic or whatever. I used to think at one point that the friendships that survive are the ones that never got tested (similar to what is said of code). This is not quite true. The “friendships” that have survived till now, i.e., <span class="math inline">\(t=0\)</span> are ones that have not been tested or ones where forgiveness and compassion prevails.</p>
 
 
 
